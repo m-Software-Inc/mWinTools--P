@@ -8,6 +8,12 @@
 <h1 align="center">mWin Tools</h1>
 
 <p align="center">
+  <a href="https://github.com/m-Software-Inc/mWinTools--P/releases">
+    <img src="https://img.shields.io/badge/Download-mWin%20Tools%20v1.19.2-0078D6?style=for-the-badge&logo=windows" alt="Download mWin Tools v1.19.2">
+  </a>
+</p>
+
+<p align="center">
   A lightweight Windows desktop application that provides quick and convenient access to over 20 Windows built-in system tools. Each tool is accompanied by an educational popup that explains its purpose and functionality before launching, making it an excellent resource for both beginners learning about Windows system administration and advanced users seeking quick access to system utilities.
 </p>
 
@@ -80,11 +86,11 @@
   </tr>
   <tr>
     <td style="padding: 12px; border: 1px solid #ddd; text-align: center;"><strong>1</strong></td>
-    <td style="padding: 12px; border: 1px solid #ddd;">Download the latest installer from the <strong>Releases</strong> section</td>
+    <td style="padding: 12px; border: 1px solid #ddd;">Download the latest installer from the <strong><a href="https://github.com/m-Software-Inc/mWinTools--P/releases">Releases</a></strong> section or click the download button above</td>
   </tr>
   <tr style="background-color: #f8f9fa;">
     <td style="padding: 12px; border: 1px solid #ddd; text-align: center;"><strong>2</strong></td>
-    <td style="padding: 12px; border: 1px solid #ddd;">Run the installer (<code>mwin-tools-setup-vX.X.X.exe</code>)</td>
+    <td style="padding: 12px; border: 1px solid #ddd;">Run the installer (<code>mwin-tools-setup-v1.19.2.exe</code>)</td>
   </tr>
   <tr>
     <td style="padding: 12px; border: 1px solid #ddd; text-align: center;"><strong>3</strong></td>
